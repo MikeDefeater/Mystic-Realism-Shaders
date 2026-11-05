@@ -8,6 +8,33 @@ Die Werte in der Spalte **Standard** gelten für das Profil *High*, mit dem der 
 
 ---
 
+## ⭐ Empfohlene Voreinstellungen
+
+Diese Werte stecken in der Datei [`Mystic_Realism_Shaders.zip.txt`](https://github.com/MikeDefeater/Mystic-Realism-Shaders/releases/download/v1.0/Mystic_Realism_Shaders.zip.txt) (Installation: siehe [Startseite](README.md#-empfohlene-voreinstellungen)). Alles, was hier nicht steht, bleibt auf dem Standardwert. Du kannst die Werte auch einfach von Hand im Shader-Menü einstellen.
+
+| Einstellung | Standard | Empfohlen | Wirkung |
+|---|---|---|---|
+| Nebeldichte | 1 | **0.5** | klarere Sicht in die Ferne |
+| Nebelhöhe (Talnebel) | 28 | **100** | Nebel zieht auch über Berghänge |
+| Lichtstrahlen | 1 | **1.5** | kräftigere Sonnenstrahlen |
+| Epischer Nachthimmel | 1 | **1.5** | mehr und hellere Sterne |
+| Wolken-Animation | 1 | **1.5** | Wolken ziehen schneller |
+| Helligkeit bei Regen | 1 | **0.8** | düsterer, dramatischer Regen |
+| Nebel bei Regen | 0.3 | **0.15** | bessere Sicht bei Regen |
+| Epic-Fantasy-Look | 1 | **1.5** | erdiger, filmischer Look |
+| Helligkeit (Belichtung) | 1 | **0.7** | dunkleres, stimmungsvolles Bild |
+| Kontrast | 1.12 | **1.08** | etwas weicher |
+| Sättigung | 1.15 | **1.1** | etwas natürlichere Farben |
+| Schärfe | 0.8 | **0.4** | weicheres Bild |
+| Vignette | 1 | **0.5** | dezentere dunkle Ränder |
+| Unschärfe am Rand | 0 | **0.5** | leichter Tiefenwirkung-Look |
+| Weichzeichner (ganzes Bild) | 0 | **0.15** | leichter Märchen-Schimmer |
+| Filmkorn | 0 | **0.5** | dezentes Analogfilm-Rauschen |
+| Bewegungsunschärfe | 0.1 | **0.05** | weniger Verwischen beim Drehen |
+| Schattenweichheit | 1 | **1.5** | weichere Schatten |
+
+---
+
 ## Profil
 
 Oben im Menü stellst du mit **Profil** alles auf einmal ein: *Very Low*, *Low*, *Mid*, *High* oder *Ultra*. Danach kannst du einzelne Werte trotzdem noch ändern.
