@@ -11,8 +11,21 @@ Einfach auf den Link klicken, der Download startet sofort:
 | Datei | Größe | Download |
 |---|---|---|
 | Mystic Realism Shaders (Version 1.0) | 38 KB | ⬇️ **[Shader herunterladen](https://github.com/MikeDefeater/Mystic-Realism-Shaders/releases/download/v1.0/Mystic_Realism_Shaders.zip)** |
+| ⭐ Empfohlene Voreinstellungen (optional) | 1 KB | ⬇️ **[Voreinstellungen herunterladen](https://github.com/MikeDefeater/Mystic-Realism-Shaders/releases/download/v1.0/Mystic_Realism_Shaders.zip.txt)** |
 
-<sub>Die Datei gibt es auch auf der Release-Seite: [v1.0](../../releases/tag/v1.0)</sub>
+<sub>Die Dateien gibt es auch auf der Release-Seite: [v1.0](../../releases/tag/v1.0)</sub>
+
+## ⭐ Empfohlene Voreinstellungen
+
+Meine Lieblings-Einstellungen, die besonders gut aussehen: weniger, dafür hoher Talnebel, kräftigere Lichtstrahlen, mehr Sterne, ein stärkerer Fantasy-Look, etwas dunkleres und weicheres Bild mit leichtem Filmkorn.
+
+So geht's:
+
+1. Die Datei `Mystic_Realism_Shaders.zip.txt` über den Link oben herunterladen. **Der Name muss genau so bleiben!**
+2. In den Ordner `shaderpacks` kopieren, direkt **neben** die `Mystic_Realism_Shaders.zip`.
+3. Minecraft (neu) starten und den Shader auswählen. Fertig.
+
+Achtung: Die Datei überschreibt Einstellungen, die du selbst im Shader-Menü geändert hast. Alle Werte im Detail: [Einstellungen → Empfohlene Voreinstellungen](Einstellungen.md#-empfohlene-voreinstellungen)
 
 ## Was der Shader kann
 
